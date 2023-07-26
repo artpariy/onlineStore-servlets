@@ -1,0 +1,22 @@
+iPhone14ProMax("iPhone14 Pro Max", LocalDate.of(2022, 9, 16), 100000, 10000),
+    iPhone14Pro("iPhone14 Pro", LocalDate.of(2022, 9, 16), 90000, 10001),
+    iPhone14Plus("iPhone14 Plus", LocalDate.of(2022, 10, 7), 85000, 10002),
+    iPhone14("iPhone14", LocalDate.of(2022, 9, 16), 80000, 10003),
+    iPhone13ProMax("iPhone13 Pro Max", LocalDate.of(2021, 9, 24), 70000, 10004),
+    iPhone13Pro("iPhone13 Pro", LocalDate.of(2021, 9, 24), 65000, 10005),
+    iPhone13mini("iPhone13 mini", LocalDate.of(2021, 9, 24),60000, 10006),
+    iPhone13("iPhone13", LocalDate.of(2021, 9, 24), 50000, 10007);
+
+
+    Brand = Apple
+    1. iPhone14ProMax, 100000, 2022-09-16, Чёрный, 10000
+    2. iPhone14ProMax, 100000, 2022-09-16, Серый, 10001
+    3. iPhone14ProMax, 100000, 2022-09-16, Синий, 10002
+    4. iPhone14ProMax, 100000, 2022-09-16, Красный, 10003
+    5. iPhone14Pro, 90000, 2022-09-16, Чёрный, 10004
+    6. iPhone14Pro, 90000, 2022-09-16, Золотой, 10005
+    7. iPhone14Pro, 90000, 2022-09-16, Синий, 10006
+    8. iPhone14Plus, 85000, 2022-10-7, Чёрный, 10050
+    9. iPhone14Plus, 85000, 2022-10-7, Серый, 10051
+    10. iPhone14Plus, 85000, 2022-10-7, Синий, 10052
+    11. iPhone14Plus, 85000, 2022-10-7, Красный, 10053

@@ -1,0 +1,7 @@
+Brand: Asus
+Models
+1.ASUS X515 ; price = 50000; release = 2022-10-15; color = Серый; code = 11001;
+2.Zenbook Pro 14 Duo OLED; price = 280000; release = 2023-01-28; color = Чёрный; code = 11002;
+3.Zenbook Pro 14 Duo OLED; price = 280000; release = 2023-01-28; color = Серый; code = 11003;
+4.Zenbook 14 OLED (UM3402); price = 75000; release = 2022-06-20; color = Чёрный; code =11004;
+5.Zenbook 14 OLED (UM3402); price = 75000; release = 2022-06-20; color = Серый; code =11005;
